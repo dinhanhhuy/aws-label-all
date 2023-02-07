@@ -1,0 +1,3 @@
+name: aws-label-all
+runtime: go
+description: Tags everything in AWS
